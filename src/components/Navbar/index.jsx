@@ -36,7 +36,7 @@ const Navbar = ()=>{
           <NavLink to="/lists" className={"font-semibold text-[18px] leading-[24px] font-[Noto Sans] flex items-center"}><img className="mr-5" src={lists} width={24} height={24} alt="lists" />Lists</NavLink>
         </li>
         <li className="nav__item">
-          <NavLink to="/profil" className={"font-semibold text-[18px] leading-[24px] font-[Noto Sans] flex items-center"}><img className="mr-5" src={profil} width={24} height={24} alt="Profil" />profil</NavLink>
+          <NavLink to="/profil" className={"font-semibold text-[18px] leading-[24px] font-[Noto Sans] flex items-center"}><img className="mr-5" src={profil} width={24} height={24} alt="Profil" />Profil</NavLink>
         </li>
         
         <li className="nav__item">
